@@ -75,6 +75,10 @@ Os notebooks marcados como “tradução pendente” ainda estão disponíveis e
 - [SIGAA/UFPB](https://sigaa.ufpb.br/sigaa/)
 - [Uma explicação visual sobre rejeição da hipótese nula, por @economaticonerd](https://www.instagram.com/p/Da6dmyNgJTc/)
 
+## Para descontrair
+
+- [Quando os alunos perguntam sobre as notas](https://www.instagram.com/p/DbRg34dOPOR/)
+
 ## Sobre este material
 
 Parte dos materiais didáticos da disciplina é adaptada de [*Introduction to Modern Statistics*](https://github.com/openintrostat/ims), da OpenIntro. O material derivado é disponibilizado sob a licença [Creative Commons BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/). Ele não é um produto OpenIntro nem possui endosso da organização.
