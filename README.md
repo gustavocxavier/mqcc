@@ -57,11 +57,11 @@ Cada estudante pode fazer **uma reposição de prova por semestre**, substituind
 - [Introdução aos dados — versão em português](https://github.com/gustavocxavier/mqcc/blob/main/codigos/ch01n2_intro_to_data.ipynb)
 - [Distribuição normal — versão em português](https://github.com/gustavocxavier/mqcc/blob/main/codigos/ch04_normal_distribution.ipynb)
 - [Intervalos de confiança — versão em português](https://github.com/gustavocxavier/mqcc/blob/main/codigos/ch05_confidence_intervals.ipynb)
-- [Inferência para dados categóricos — tradução pendente](https://github.com/gustavocxavier/mqcc/blob/main/codigos/ch06_inf_for_categorical_data.ipynb)
-- [Inferência para dados numéricos — tradução pendente](https://github.com/gustavocxavier/mqcc/blob/main/codigos/ch07_inf_for_numerical_data.ipynb)
-- [Regressão linear simples — tradução pendente](https://github.com/gustavocxavier/mqcc/blob/main/codigos/ch08_simple_regression.ipynb)
+- [Inferência para dados categóricos — versão em português](https://github.com/gustavocxavier/mqcc/blob/main/codigos/ch06_inf_for_categorical_data.ipynb)
+- [Inferência para dados numéricos — versão em português](https://github.com/gustavocxavier/mqcc/blob/main/codigos/ch07_inf_for_numerical_data.ipynb)
+- [Regressão linear simples — versão em português](https://github.com/gustavocxavier/mqcc/blob/main/codigos/ch08_simple_regression.ipynb)
 
-Os notebooks marcados como “tradução pendente” ainda estão disponíveis em inglês.
+Todos os notebooks listados estão disponíveis em português brasileiro e preservam um link para a versão original.
 
 ## Datasets
 
