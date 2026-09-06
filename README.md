@@ -79,6 +79,7 @@ Todos os notebooks listados estão disponíveis em português brasileiro e prese
 ## Para descontrair
 
 - [Quando os alunos perguntam sobre as notas](https://www.instagram.com/p/DbRg34dOPOR/)
+- [O aluno não quer fazer a lista só pq a lista não existe 🤓](https://www.instagram.com/reels/DYk8GnWOJMI/)
 
 ## Sobre este material
 
