@@ -54,13 +54,9 @@ Cada estudante pode fazer **uma reposição de prova por semestre**, substituind
 
 ## Códigos e notebooks em Python
 
-- [Coleção completa de tutoriais de Estatística em Python](https://github.com/akmand/statististics_tutorials)
 - [Introdução aos dados — versão em português](codigos/ch01n2_intro_to_data.ipynb)
-- [Regressão linear simples](https://github.com/akmand/statististics_tutorials/blob/main/ch8_simple_regression.ipynb)
-- [Regressão linear múltipla](https://github.com/akmand/statististics_tutorials/blob/main/ch9_multiple_regression.ipynb)
-- [Estudo de caso de regressão](https://github.com/akmand/statististics_tutorials/blob/main/regression_case_study_predicting_age_in_census_data.ipynb)
 
-Os notebooks são materiais externos de apoio. Em aula, eles poderão ser adaptados aos objetivos e exemplos da disciplina.
+Novos notebooks serão adicionados aqui à medida que forem traduzidos e revisados.
 
 ## Datasets
 
