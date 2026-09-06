@@ -1,5 +1,17 @@
 # Métodos Quantitativos em Ciências Contábeis
 
+## 
+
+- Unidade I - Conceitos Introdutórios e Regressão Linear Simples
+- Unidade II - Regressão Múltipla e Logística
+- Unidade III - Tópicos Especiais em Análise de Regressão
+  - Séries Temporais
+  - Seleção de Variáveis
+  - Previsão
+ 
+## Links úteis
+- Sobre entender rejeitar hipótese nula por [@economaticonerd](https://www.instagram.com/economaticonerd/): [link do post](https://www.instagram.com/p/Da6dmyNgJTc/)
+
 Projeto de adaptação didática para a disciplina de Métodos Quantitativos em
 Ciências Contábeis. A fonte inicial é
 [Introduction to Modern Statistics](https://github.com/openintrostat/ims), da
