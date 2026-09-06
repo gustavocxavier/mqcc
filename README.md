@@ -1,53 +1,79 @@
 # Métodos Quantitativos em Ciências Contábeis
 
-## 
+Nesta disciplina, vamos usar estatística, regressão e séries temporais para analisar dados e apoiar decisões em contextos contábeis e financeiros. O foco não é decorar fórmulas: é aprender a organizar dados, interpretar resultados e comunicar conclusões com cuidado.
 
-- Unidade I - Conceitos Introdutórios e Regressão Linear Simples
-- Unidade II - Regressão Múltipla e Logística
-- Unidade III - Tópicos Especiais em Análise de Regressão
-  - Séries Temporais
-  - Seleção de Variáveis
-  - Previsão
- 
-## Links úteis
-- Sobre entender rejeitar hipótese nula por [@economaticonerd](https://www.instagram.com/economaticonerd/): [link do post](https://www.instagram.com/p/Da6dmyNgJTc/)
+## Conteúdo da disciplina
 
-Projeto de adaptação didática para a disciplina de Métodos Quantitativos em
-Ciências Contábeis. A fonte inicial é
-[Introduction to Modern Statistics](https://github.com/openintrostat/ims), da
-OpenIntro.
+### Unidade I — Fundamentos, dados e regressão simples
 
-Este material derivado é disponibilizado sob
-[Creative Commons BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
-Ele não é um produto OpenIntro nem possui endosso da OpenIntro.
+- Tipos de dados e variáveis, tabelas, gráficos e medidas de posição e dispersão.
+- Associação entre variáveis, covariância e correlação.
+- Regressão linear simples: mínimos quadrados, reta ajustada, coeficientes, valores previstos, erros e resíduos.
+- Qualidade do ajuste, R², inferência essencial e leitura de resultados gerados em Python.
+- Diferença entre associação e causalidade e comunicação responsável dos resultados.
 
-The e-book is hosted by [Netlify](https://www.netlify.com).
+### Unidade II — Regressão múltipla, formas funcionais e especificação
 
-## Where is IMS 2?
+- Regressão múltipla e interpretação dos coeficientes mantendo as demais variáveis constantes.
+- Inferência, qualidade do ajuste e R² ajustado.
+- Logaritmos, polinômios, variáveis *dummy* e interações.
+- Comparação de modelos, viés por omissão, parcimônia e seleção de variáveis.
+- Interpretação crítica de resultados e aplicações com dados.
 
-<https://openintro-ims.netlify.app/>
+### Unidade III — Diagnóstico de modelos e séries temporais
 
-## Where did IMS 1 go?
+- Análise de resíduos e diagnóstico da qualidade do modelo.
+- Heterocedasticidade, autocorrelação e multicolinearidade.
+- Tendência, sazonalidade, ruído, defasagens e estacionariedade introdutória.
+- Previsão básica, erro de previsão e limites de uso.
+- Projeto aplicado: pergunta, dados, método, análise, documentação e apresentação dos resultados.
 
-<https://openintro-ims1.netlify.app/>
+## Como serão as aulas
 
-## Where did Introduction to Statistics with Randomization and Simulation go?
+Teremos explicações dialogadas, exercícios, leitura de gráficos e *outputs*, discussão de casos contábeis e financeiros e atividades no Moodle.
 
-As we're working on the 2nd edition of this book, we realized that we weren't too enamoured by the name, and decided to rename the book to "Introduction to Modern Statistics" to better reflect the content covered in the book, which features simulation-based inference but also many non-inference topics!
+O Python será usado quando ajudar a entender e aplicar os métodos. Serão disponibilizados exemplos, notebooks parcialmente prontos e resultados para interpretação. Não é preciso dominar programação para acompanhar a disciplina: quando necessário, haverá alternativas que não dependem de laboratório.
 
-If you're looking for the source files for the 1st edition of OpenIntro - Introduction to Statistics with Randomization and Simulation, please download the zipped release [here](https://github.com/openintrostat/randomization-and-simulation/releases).
+## Avaliação
 
-------------------------------------------------------------------------
+A disciplina tem três notas, uma para cada unidade:
 
-Please note that this project is released with a [Contributor Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/).
-By participating in this project you agree to abide by its terms.
+```text
+N1 = P1 + A1
+N2 = P2 + A2
+N3 = P3 + A3
+```
 
-------------------------------------------------------------------------
+Em cada unidade:
 
-#### Conventions 
-used in IMS:
+- **P** é uma prova escrita e vale **8,0 pontos**.
+- **A** é uma atividade avaliativa contínua e vale **2,0 pontos**.
+- Outras atividades formativas podem ser usadas para praticar e acompanhar a aprendizagem.
 
-dataset (one word)  
-data frame (two words)  
-Type I error  
-box plot (two words)  
+Cada estudante pode fazer **uma reposição de prova por semestre**, substituindo uma das provas programadas, conforme a Resolução CONSEPE nº 29/2020. As datas e orientações específicas de cada turma serão divulgadas nos canais oficiais da disciplina.
+
+## Códigos e notebooks em Python
+
+- [Coleção completa de tutoriais de Estatística em Python](https://github.com/akmand/statististics_tutorials)
+- [Introdução aos dados](https://github.com/akmand/statististics_tutorials/blob/main/ch1n2_intro_to_data.ipynb)
+- [Regressão linear simples](https://github.com/akmand/statististics_tutorials/blob/main/ch8_simple_regression.ipynb)
+- [Regressão linear múltipla](https://github.com/akmand/statististics_tutorials/blob/main/ch9_multiple_regression.ipynb)
+- [Estudo de caso de regressão](https://github.com/akmand/statististics_tutorials/blob/main/regression_case_study_predicting_age_in_census_data.ipynb)
+
+Os notebooks são materiais externos de apoio. Em aula, eles poderão ser adaptados aos objetivos e exemplos da disciplina.
+
+## Datasets
+
+- [Explorar a coleção de datasets OpenIntro](https://github.com/akmand/datasets/tree/main/openintro)
+- [`brfss_2000.csv` — usado no notebook de introdução aos dados](https://raw.githubusercontent.com/akmand/datasets/main/openintro/brfss_2000.csv)
+- [`mlb11.csv` — usado no notebook de regressão simples](https://raw.githubusercontent.com/akmand/datasets/main/openintro/mlb11.csv)
+- [`evals.csv` — usado no notebook de regressão múltipla](https://raw.githubusercontent.com/akmand/datasets/main/openintro/evals.csv)
+
+## Outros links úteis
+
+- [SIGAA/UFPB](https://sigaa.ufpb.br/sigaa/)
+- [Uma explicação visual sobre rejeição da hipótese nula, por @economaticonerd](https://www.instagram.com/p/Da6dmyNgJTc/)
+
+## Sobre este material
+
+Parte dos materiais didáticos da disciplina é adaptada de [*Introduction to Modern Statistics*](https://github.com/openintrostat/ims), da OpenIntro. O material derivado é disponibilizado sob a licença [Creative Commons BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/). Ele não é um produto OpenIntro nem possui endosso da organização.
