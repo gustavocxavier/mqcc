@@ -70,10 +70,11 @@ Os notebooks marcados como “tradução pendente” ainda estão disponíveis e
 - [`mlb11.csv` — usado no notebook de regressão simples](https://raw.githubusercontent.com/akmand/datasets/main/openintro/mlb11.csv)
 - [`evals.csv` — usado no notebook de regressão múltipla](https://raw.githubusercontent.com/akmand/datasets/main/openintro/evals.csv)
 
-## Outros links úteis
+## Links interessantes
 
 - [SIGAA/UFPB](https://sigaa.ufpb.br/sigaa/)
 - [Uma explicação visual sobre rejeição da hipótese nula, por @economaticonerd](https://www.instagram.com/p/Da6dmyNgJTc/)
+- [Entendendo valores-p por meio de simulações interativas](https://rpsychologist.com/pvalue/)
 
 ## Para descontrair
 
