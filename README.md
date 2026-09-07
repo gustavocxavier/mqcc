@@ -1,6 +1,6 @@
 # 📊 Métodos Quantitativos em Ciências Contábeis
 
-> Estatística, regressão e séries temporais aplicadas à análise de dados e à tomada de decisões em contextos contábeis e financeiros.
+> Com foco no pensamento analítico e na interpretação de dados reais, a disciplina desenvolve o raciocínio lógico-numérico para subsidiar o processo decisório nas organizações e instrumentalizar a resolução de problemas de pesquisa no campo das Ciências Contábeis
 
 ## 🎯 Objetivo da disciplina
 
