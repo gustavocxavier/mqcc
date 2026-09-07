@@ -1,29 +1,34 @@
 # 📊 Métodos Quantitativos em Ciências Contábeis
 
-> Com foco no pensamento analítico e na interpretação de dados reais, a disciplina desenvolve o raciocínio lógico-numérico para subsidiar o processo decisório nas organizações e instrumentalizar a resolução de problemas de pesquisa no campo das Ciências Contábeis
+> Com foco no pensamento analítico e na interpretação de dados reais, a disciplina desenvolve o raciocínio lógico-numérico para subsidiar o processo decisório em situações do mundo real, bem como, instrumentalizar a análise de problemas de pesquisa no campo das Ciências Contábeis.
 
 ## 🎯 Objetivo da disciplina
 
-O foco não é decorar fórmulas. Ao longo da disciplina, vamos aprender a:
+Ao longo da disciplina, vamos aprender a:
 
 - organizar e explorar dados;
 - interpretar resultados estatísticos;
 - analisar relações entre variáveis;
+- entender o uso de *modelos de regressão* para responder problemas de pesquisa;
 - comunicar conclusões com clareza e cuidado.
 
 ---
 
 ## 🧭 Conteúdo da disciplina
 
-### 1️⃣ Unidade I — Fundamentos, dados e regressão simples
+### 1️⃣ Unidade I — Análise de Regressão Simples
+
+_Fundamentos, dados e regressão simples_
 
 - Tipos de dados e variáveis, tabelas, gráficos e medidas de posição e dispersão.
 - Associação entre variáveis, covariância e correlação.
 - Regressão linear simples: mínimos quadrados, reta ajustada, coeficientes, valores previstos, erros e resíduos.
-- Qualidade do ajuste, R², inferência essencial e leitura de resultados gerados em Python.
+- Qualidade do ajuste, R², inferência estatística essencial e leitura dos resultados gerados em Python.
 - Diferença entre associação e causalidade e comunicação responsável dos resultados.
 
-### 2️⃣ Unidade II — Regressão múltipla, formas funcionais e especificação
+### 2️⃣ Unidade II — Análise de Regressão Múltipla
+
+_Regressão múltipla, formas funcionais e especificação_
 
 - Regressão múltipla e interpretação dos coeficientes mantendo as demais variáveis constantes.
 - Inferência, qualidade do ajuste e R² ajustado.
@@ -41,7 +46,7 @@ O foco não é decorar fórmulas. Ao longo da disciplina, vamos aprender a:
 
 ---
 
-## 🧑‍🏫 Como serão as aulas
+## 👨‍🏫💻 Como serão as aulas
 
 As aulas combinam:
 
@@ -51,7 +56,7 @@ As aulas combinam:
 - discussão de casos contábeis e financeiros;
 - atividades no Moodle.
 
-O Python será usado quando ajudar a entender e aplicar os métodos. Serão disponibilizados exemplos, notebooks parcialmente prontos e resultados para interpretação.
+O Python 🐍 será usado para ajudar a entender e aplicar os métodos. Serão disponibilizados exemplos, notebooks parcialmente prontos e resultados para interpretação.
 
 > **Não é preciso dominar programação para acompanhar a disciplina.** Quando necessário, haverá alternativas que não dependem de laboratório.
 
@@ -80,7 +85,7 @@ Outras atividades formativas podem ser usadas para praticar e acompanhar a apren
 
 ---
 
-## 💻 Códigos e notebooks em Python
+## 💻 Códigos e notebooks em Python 🐍
 
 1. [Introdução aos dados](https://github.com/gustavocxavier/mqcc/blob/main/codigos/ch01n2_intro_to_data.ipynb)
 2. [Distribuição normal](https://github.com/gustavocxavier/mqcc/blob/main/codigos/ch04_normal_distribution.ipynb)
