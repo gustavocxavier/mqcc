@@ -127,4 +127,4 @@ Outras atividades formativas podem ser usadas para praticar e acompanhar a apren
 
 ## 📚 Sobre este material
 
-Parte dos materiais didáticos da disciplina é adaptada de [*Introduction to Modern Statistics*](https://github.com/openintrostat/ims), da OpenIntro. O material derivado é disponibilizado sob a licença [Creative Commons BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+Parte dos materiais didáticos da disciplina é adaptada de [*Introduction to Modern Statistics*](https://openintrostat.github.io/ims/), da OpenIntro. O material derivado é disponibilizado sob a licença [Creative Commons BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
