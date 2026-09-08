@@ -26,6 +26,8 @@ _Fundamentos, dados e regressão simples_
 - Qualidade do ajuste, R², inferência estatística essencial e leitura dos resultados gerados em Python.
 - Diferença entre associação e causalidade e comunicação responsável dos resultados.
 
+**Materiais da Unidade I:** [Slides](material/unidade1-slides.pdf) · [Material didático](material/unidade1-conteudo.pdf)
+
 ### 2️⃣ Unidade II — Análise de Regressão Múltipla
 
 _Regressão múltipla, formas funcionais e especificação_
