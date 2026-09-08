@@ -87,12 +87,12 @@ Outras atividades formativas podem ser usadas para praticar e acompanhar a apren
 
 ## 💻 Códigos e notebooks em Python 🐍
 
-1. [Introdução aos dados](https://github.com/gustavocxavier/mqcc/blob/main/codigos/ch01n2_intro_to_data.ipynb)
-2. [Distribuição normal](https://github.com/gustavocxavier/mqcc/blob/main/codigos/ch04_normal_distribution.ipynb)
-3. [Intervalos de confiança](https://github.com/gustavocxavier/mqcc/blob/main/codigos/ch05_confidence_intervals.ipynb)
-4. [Inferência para dados categóricos](https://github.com/gustavocxavier/mqcc/blob/main/codigos/ch06_inf_for_categorical_data.ipynb)
-5. [Inferência para dados numéricos](https://github.com/gustavocxavier/mqcc/blob/main/codigos/ch07_inf_for_numerical_data.ipynb)
-6. [Regressão linear simples](https://github.com/gustavocxavier/mqcc/blob/main/codigos/ch08_simple_regression.ipynb)
+1. [Introdução aos dados](https://github.com/gustavocxavier/mqcc/blob/main/codigos/unidade1-topico1-1-dados-unidades-analise-somatorios.ipynb)
+2. [Distribuição normal](https://github.com/gustavocxavier/mqcc/blob/main/codigos/unidade1-topico1-3-graficos-distribuicao-frequencias-normal.ipynb)
+3. [Intervalos de confiança](https://github.com/gustavocxavier/mqcc/blob/main/codigos/unidade1-topico2-2-intervalo-confianca.ipynb)
+4. [Inferência para dados categóricos](https://github.com/gustavocxavier/mqcc/blob/main/codigos/unidade1-topico2-3-inferencia-dados-categoricos.ipynb)
+5. [Inferência para dados numéricos](https://github.com/gustavocxavier/mqcc/blob/main/codigos/unidade1-topico2-3-inferencia-dados-numericos.ipynb)
+6. [Regressão linear simples](https://github.com/gustavocxavier/mqcc/blob/main/codigos/unidade1-topico3-1-reta-regressao-simples.ipynb)
 
 > Todos os notebooks estão disponíveis em português brasileiro e preservam um link para a versão original.
 
