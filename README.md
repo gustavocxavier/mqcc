@@ -26,7 +26,7 @@ _Fundamentos, dados e regressão simples_
 - Qualidade do ajuste, R², inferência estatística essencial e leitura dos resultados gerados em Python.
 - Diferença entre associação e causalidade e comunicação responsável dos resultados.
 
-**Materiais da Unidade I:** [Slides](material/unidade1-slides.pdf) · [Material didático](material/unidade1-conteudo.pdf)
+**Materiais da Unidade I:** [Slides](material/slides_u1_v4.pdf) · [Material didático](material/material-didatico_u1.pdf)
 
 ### 2️⃣ Unidade II — Análise de Regressão Múltipla
 
@@ -89,12 +89,12 @@ Outras atividades formativas podem ser usadas para praticar e acompanhar a apren
 
 ## 💻 Códigos e notebooks em Python 🐍
 
-1. [Introdução aos dados](https://github.com/gustavocxavier/mqcc/blob/main/codigos/unidade1-topico1-1-dados-unidades-analise-somatorios.ipynb)
-2. [Distribuição normal](https://github.com/gustavocxavier/mqcc/blob/main/codigos/unidade1-topico1-3-graficos-distribuicao-frequencias-normal.ipynb)
-3. [Intervalos de confiança](https://github.com/gustavocxavier/mqcc/blob/main/codigos/unidade1-topico2-2-intervalo-confianca.ipynb)
-4. [Inferência para dados categóricos](https://github.com/gustavocxavier/mqcc/blob/main/codigos/unidade1-topico2-3-inferencia-dados-categoricos.ipynb)
-5. [Inferência para dados numéricos](https://github.com/gustavocxavier/mqcc/blob/main/codigos/unidade1-topico2-3-inferencia-dados-numericos.ipynb)
-6. [Regressão linear simples](https://github.com/gustavocxavier/mqcc/blob/main/codigos/unidade1-topico3-1-reta-regressao-simples.ipynb)
+1. [Introdução aos dados](https://github.com/gustavocxavier/mqcc/blob/main/codigos/unidade1-topico1-1-dados.ipynb)
+2. [Distribuição normal](https://github.com/gustavocxavier/mqcc/blob/main/codigos/unidade1-topico1-3-graficos-normal.ipynb)
+3. [Intervalos de confiança](https://github.com/gustavocxavier/mqcc/blob/main/codigos/unidade1-topico2-2-intervalo.ipynb)
+4. [Inferência para dados categóricos](https://github.com/gustavocxavier/mqcc/blob/main/codigos/unidade1-topico2-3-inferencia-categoricos.ipynb)
+5. [Inferência para dados numéricos](https://github.com/gustavocxavier/mqcc/blob/main/codigos/unidade1-topico2-3-inferencia-numericos.ipynb)
+6. [Regressão linear simples](https://github.com/gustavocxavier/mqcc/blob/main/codigos/unidade1-topico3-1-regressao-simples.ipynb)
 
 > Todos os notebooks estão disponíveis em português brasileiro e preservam um link para a versão original.
 
