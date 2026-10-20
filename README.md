@@ -95,6 +95,7 @@ Outras atividades formativas podem ser usadas para praticar e acompanhar a apren
 4. [Inferência para dados categóricos](https://github.com/gustavocxavier/mqcc/blob/main/codigos/unidade1-topico2-3-inferencia-categoricos.ipynb)
 5. [Inferência para dados numéricos](https://github.com/gustavocxavier/mqcc/blob/main/codigos/unidade1-topico2-3-inferencia-numericos.ipynb)
 6. [Regressão linear simples](https://github.com/gustavocxavier/mqcc/blob/main/codigos/unidade1-topico3-1-regressao-simples.ipynb)
+7. [Regressão Linear Multipla](https://colab.research.google.com/drive/1u8z9o2wJ2U5pwsxNu1qE2ayfck59w6KP?usp=sharing)
 
 > Todos os notebooks estão disponíveis em português brasileiro e preservam um link para a versão original.
 
