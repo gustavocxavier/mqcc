@@ -1,5 +1,7 @@
 # 📊 Métodos Quantitativos em Ciências Contábeis
 
+*gustavocxavier.github.io/mqcc*
+
 > Com foco no pensamento analítico e na interpretação de dados reais, a disciplina desenvolve o raciocínio lógico-numérico para subsidiar o processo decisório em situações do mundo real, bem como, instrumentalizar a análise de problemas de pesquisa no campo das Ciências Contábeis.
 
 ## 🎯 Objetivo da disciplina
