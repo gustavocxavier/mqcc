@@ -116,6 +116,8 @@ Outras atividades formativas podem ser usadas para praticar e acompanhar a apren
 ### Ambiente acadêmico
 
 - [SIGAA/UFPB](https://sigaa.ufpb.br/sigaa/)
+- [Moodle](https://classes.sead.ufpb.br/course/view.php?id=1856)
+- Pasta do [Google Drive](https://drive.google.com/drive/folders/1KcYOGQMnQYSbrCMhdd22VB8ttjkHoX1_?usp=sharing)
 
 ### Para estudar
 
