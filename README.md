@@ -40,6 +40,8 @@ _Regressão múltipla, formas funcionais e especificação_
 - Comparação de modelos, viés por omissão, parcimônia e seleção de variáveis.
 - Interpretação crítica de resultados e aplicações com dados.
 
+**Materiais da Unidade II:** [Slide e Textos no Google Drive](https://drive.google.com/drive/folders/1KcYOGQMnQYSbrCMhdd22VB8ttjkHoX1_?usp=sharing)
+
 ### 3️⃣ Unidade III — Diagnóstico de modelos e séries temporais
 
 - Análise de resíduos e diagnóstico da qualidade do modelo.
